@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `profileType` enum('student','company');
