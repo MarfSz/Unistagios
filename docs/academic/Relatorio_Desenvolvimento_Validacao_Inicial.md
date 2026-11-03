@@ -7,7 +7,7 @@
 **Disciplina:** Projeto Integrador IV — Curricularização da Extensão  
 **Percurso:** B — Projeto em andamento  
 **Comunidade beneficiada:** estudantes da UNITAU e empresas interessadas em contratar estagiários da universidade  
-**Integrantes:** Vicenzo Burti, Pedro Falsetti, Gustavo Ramiro e Marco Antônio  
+**Integrantes:** Vicenzo Burti, Pedro Falsetti, Gustavo Ramiro, Marco Antonio e Romar
 **Data:** outubro de 2026
 
 ## 1. Identificação

@@ -11,7 +11,7 @@ O relatório segue as 12 seções solicitadas pelo modelo do professor. A seçã
 
 ## Participantes
 
-Vicenzo Burti, Pedro Falsetti, Gustavo Ramiro e Marco Antônio. O contato com estudantes, empresas, recrutadores e parceiros externos é responsabilidade do grupo inteiro.
+Vicenzo Burti, Pedro Falsetti, Gustavo Ramiro, Marco Antonio e Romar. O contato com estudantes, empresas, recrutadores e parceiros externos é responsabilidade do grupo inteiro.
 
 ## Atualização após a validação
 
