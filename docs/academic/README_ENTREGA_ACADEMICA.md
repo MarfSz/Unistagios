@@ -6,7 +6,6 @@ Esta pasta reúne os materiais acadêmicos do Projeto Integrador IV, organizado 
 
 - `Relatorio_Desenvolvimento_Validacao_Inicial.pdf`: versão pronta para revisão e entrega.
 - `Relatorio_Desenvolvimento_Validacao_Inicial.md`: fonte editável do conteúdo.
-- `Relatorio_Desenvolvimento_Validacao_Inicial.typ`: fonte de composição do PDF, com capa, sumário, cabeçalho, rodapé, tabelas e numeração.
 
 O relatório segue as 12 seções solicitadas pelo modelo do professor. A seção de evidências obrigatórias não foi incluída, conforme orientação do grupo, pois as comprovações serão inseridas posteriormente.
 
